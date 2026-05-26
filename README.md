@@ -39,9 +39,7 @@ Interactive Power BI dashboard analyzing engagement trends.
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=tragiangdata&theme=github-dark&hide_border=true" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tragiangdata&theme=github_dark" />
 
 ---
 
