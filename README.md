@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="ok.png" />
+</p>
 <h1 align="center">Hi, I'm Trà Giang 👋</h1>
 
 <p align="center">
