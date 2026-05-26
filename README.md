@@ -1,57 +1,53 @@
-# Tra Giang
+<h1 align="center">Hi, I'm Trà Giang 👋</h1>
 
-Data-oriented student with experience in data analytics, machine learning, dashboard development, and applied data projects.
+<p align="center">
+Data Science Student • Data Analytics • Machine Learning
+</p>
 
-## About
-I work on projects related to:
-- Data Analytics & Visualization
-- Machine Learning Applications
-- Data Processing & Feature Engineering
-- Dashboard Development
-- Predictive Modeling
-- Customer & Behavioral Analysis
+---
 
-I am interested in opportunities related to Data Analytics, Data Science, AI, and other data-driven roles.
+## About Me
 
-## Technical Skills
-### Programming & Data
-- Python
-- SQL
-- Pandas
-- NumPy
+- Building practical data science and analytics projects
+- Interested in machine learning, visualization, and business intelligence
+- Working with Python, SQL, and Power BI
+- Passionate about turning data into actionable insights
 
-### Machine Learning
-- Scikit-learn
-- Clustering
-- Classification
-- Anomaly Detection
+---
 
-### Visualization & BI
-- Power BI
-- Matplotlib
-- Seaborn
+## Tech Stack
 
-### Data Handling
-- Data Cleaning
-- Feature Engineering
-- Exploratory Data Analysis (EDA)
+Python • SQL • Pandas • Scikit-learn • Power BI • Matplotlib
 
-## Selected Projects
+---
 
-### IoT Anomaly Detection
-Developed anomaly detection models for IoT sensor streams using Isolation Forest and One-Class SVM with sliding window feature extraction.
+## Featured Projects
 
-### Social Media Analytics Dashboard
-Built Power BI dashboards to analyze engagement, content performance, and user interaction trends across social media datasets.
+### Real-Time IoT Anomaly Detection
+Machine learning system for detecting abnormal IoT sensor behavior in real time.
 
-### Customer Segmentation
-Applied K-Means and DBSCAN clustering techniques for customer behavior analysis and recommendation support.
+### Customer Segmentation for E-Commerce
+Customer clustering using KMeans and DBSCAN for recommendation analysis.
 
-### House Price Prediction
-Built predictive models for housing price estimation using regression techniques and feature analysis.
+### Heart Disease Clustering
+Healthcare data clustering using Density Peaks and Tabu Search.
 
-### Student Performance Pipeline
-Developed a complete machine learning pipeline including preprocessing, feature selection, and model evaluation.
+### Social Media Performance Dashboard
+Interactive Power BI dashboard analyzing engagement trends.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tragiangdata&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tragiangdata&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ## Contact
-LinkedIn: https://linkedin.com/in/tragiangdata
+
+- GitHub: https://github.com/tragiangdata
+- Email: giangptt313@gmail.com
